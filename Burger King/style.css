@@ -1,0 +1,278 @@
+@media (max-width:764px) {
+   html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow:visible;
+   }
+
+    body{
+        background-color: rgb(250, 239, 214);
+    }
+     header{
+         position: fixed; 
+         background-color: bisque; 
+    } 
+    nav{
+        width:8vw;
+        display: flex;
+        gap:33vw;
+    }
+    nav i{
+        padding:3vw;
+
+    }
+    .nav2{
+        display: flex;
+        gap: 13vw;
+    }
+    .nav2 img{
+        width: 12vw;
+    }
+    .nav2 button{
+        width:30vw ;
+        height: 9vw;
+        border-radius: 60px;
+        background-color:rgb(214, 11, 4) ;
+        color:rgb(244, 226, 225) ;
+        font-size: 3vw;
+        font-weight:1000;
+        margin-top: 1vw;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+        border-color: red;
+    }
+    .nav3{
+        display: flex;
+        gap: 3vw;
+        padding-left:3vw;
+        padding-top: 4vw;
+    }
+    .nav3 span{
+        font-weight: 700;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    }
+    .nav3 a{
+        font-weight: 500;
+    }
+    .nav4{
+        width:100.2vw;
+        background-color:rgb(46, 1, 1) ;
+    }
+    .main1 img{
+        width: 98vw;
+    }
+    .main1 h1{
+        text-align: center;
+        font-family: sans-serif ;
+        font-weight: 900;
+        font-size: 10vw;
+        padding: 5vw;
+    }
+    .main2 button{
+        width:90vw;
+        height: 15vw;
+        font-size: x-large;
+        margin-left: 3vw;
+        border-radius: 30px;
+    }
+    #btn1{
+        background-color: rgb(211, 5, 5);
+        color: rgb(244, 226, 225) ;
+        font-weight: bolder;
+        border-color: red;
+        margin-left: 5vw;
+    }
+    #btn2{
+        background-color: rgb(244, 215, 215);
+        color: rgb(255, 16, 3) ;
+        font-weight: bolder;
+        border-color: red;
+        margin-left: 5vw;
+    }
+    .main3 img{
+        width: 95vw;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .main3{
+        width: 95vw;
+        height: 115vw;
+        background-color: rgb(252, 251, 250);
+        border-radius: 20px;
+        margin-left: 2.7vw;
+    }
+    .main3 h4{
+        padding-left: 5vw;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .main3 h5{
+        padding-left: 5vw;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }   
+    .main3 a{
+        padding-left: 5vw;
+    }
+    .main3 button{
+        margin-left: 4vw;
+        height: 10vw;
+        width: 35vw;
+        border-radius: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 900;
+        color: red;
+        border-color: red;
+    }
+    .main4 img{
+        width: 95vw;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .main4{
+        width: 95vw;
+        height: 132vw;
+        background-color: rgb(252, 251, 250);
+        border-radius: 20px;
+        margin-left: 2.7vw;
+    }
+    .main4 h4{
+        padding-left: 5vw;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .main4 h5{
+        padding-left: 5vw;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }   
+    .main4 a{
+        padding-left: 5vw;
+    }
+    .main4 button{
+        margin-left: 4vw;
+        height: 10vw;
+        width: 35vw;
+        border-radius: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 900;
+        color: red;
+        border-color: red;
+    }
+    .main5 img{
+        width: 95vw;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .main5{
+        width: 95vw;
+        height: 118vw;
+        background-color: rgb(252, 251, 250);
+        border-radius: 20px;
+        margin-left: 2.7vw;
+    }
+    .main5 h4{
+        padding-left: 5vw;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .main5 h5{
+        padding-left: 5vw;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }   
+    .main4 a{
+        padding-left: 5vw;
+    }
+    .main5 button{
+        margin-left: 4vw;
+        height: 10vw;
+        width: 35vw;
+        border-radius: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 900;
+        color: red;
+        border-color: red;
+    }
+    .main6 img{
+        width: 95vw;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .main6{
+        width: 95vw;
+        height: 123vw;
+        background-color: rgb(252, 251, 250);
+        border-radius: 20px;
+        margin-left: 2.7vw;
+    }
+    .main6 h4{
+        padding-left: 5vw;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .main6 h5{
+        padding-left: 5vw;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }   
+    .main6 a{
+        padding-left: 5vw;
+    }
+    .main6 button{
+        margin-left: 4vw;
+        height: 10vw;
+        width: 35vw;
+        border-radius: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 900;
+        color: red;
+        border-color: red;
+    }
+    .main7one{
+        display: flex;
+        gap: 5vw;
+        margin-left: 2.7vw;
+
+    }
+    .main7 img{
+        width: 40vw;
+    }
+    .main7 h1{
+        font-weight: 900;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(71, 22, 22);
+
+    }
+    .main7two{
+        display: flex;
+        gap: 10vw;
+        margin-left:5vw;
+    }
+    .main7three{
+        text-align: center;
+        color: rgb(138, 42, 42);
+    }
+    .main7four{
+        background-color: rgba(117, 10, 10, 0.998);
+    }
+    .main7four h5{
+        text-align: center;
+        color:bisque;
+        text-decoration:underline;
+        text-decoration-color:bisque ;
+    }
+    .main7four h4{
+        text-align: center;
+        color:bisque;
+        width: 100vw;
+    }
+    footer{
+        background-color: bisque;
+    }
+    .footer1{
+        display: flex;
+        gap: 15vw;
+    }
+    .footer2{
+        display: flex;
+        gap: 9.5vw;
+    } */
+}
